@@ -14,6 +14,6 @@ b = 1.2
 n = 1
 
 resultado = Trapezio(funcao, a, b, n)
-print(f"O valor aproximado da integral é: {3.%resultado}")
+print(f"O valor aproximado da integral é: {resultado}")
 
 #esta dando erro
